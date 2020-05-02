@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Collections;
 
+// Hello!
 // List that records the inventory, which are books and music. 
 public class InventoryList {
 
